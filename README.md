@@ -24,10 +24,10 @@ Each file contains:
 ## 📌 How to Use This Repository
 1. Clone the repository:
    ```bash
-   https://github.com/ragavi-ashok/StrataScratch-Solutions.git
-2.Navigate to a category and review the solutions.
-3.Try writing the query yourself before checking the solutions.
-4. Feel free to contribute or discuss alternative approaches!
+   https://github.com/ragavi-ashok/StrataScratch-Solutions.git  <br>
+2.Navigate to a category and review the solutions. <br>
+3.Try writing the query yourself before checking the solutions. <br>
+4. Feel free to contribute or discuss alternative approaches! <br>
 
 
 📈 Progress Tracker
